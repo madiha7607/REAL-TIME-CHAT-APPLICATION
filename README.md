@@ -18,3 +18,18 @@ The development process emphasizes error prevention and user experience. The bac
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c7cd27d2-b96b-4b8d-a15d-c8c874669707)
+
+![Image](https://github.com/user-attachments/assets/97c2168a-b9e1-4020-98c7-e8e4d661f333)
+
+![Image](https://github.com/user-attachments/assets/96b3cdf3-8f29-49fb-98a4-cf59752ffa31)
+
+![Image](https://github.com/user-attachments/assets/ec6cd861-b892-4062-a5be-1ad67c03a0fd)
+
+![Image](https://github.com/user-attachments/assets/fad8662c-65fd-45c3-923f-df38cfac1f39)
+
+![Image](https://github.com/user-attachments/assets/73198e88-181e-4fc0-872d-c1010eb51c70)
+
+![Image](https://github.com/user-attachments/assets/b780ebb6-6dc0-4072-8590-70d9daa9c272)
+
+![Image](https://github.com/user-attachments/assets/94e92481-9a53-4166-a7ee-a8cad32bb3c3)
